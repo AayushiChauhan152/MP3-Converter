@@ -21,15 +21,11 @@ StreamToMP3 is a simple web application that allows users to convert their favor
 Make sure you have Python installed on your system. You can download it from [python.org](https://www.python.org/).
 
 ### Clone the Repository
-```bash
 git clone https://github.com/YourUsername/MP3-Converter.git
-cd MP3-Converter```
+cd MP3-Converter
 
-###Install the required packages:
-```bash
+### Install the required packages:
 pip install -r requirements.txt
-```
-###Run the Django development server:
-```bash
+
+### Run the Django development server:
 python manage.py runserver
-```
