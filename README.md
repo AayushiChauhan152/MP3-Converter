@@ -22,7 +22,6 @@ Make sure you have Python installed on your system. You can download it from [py
 
 ### Clone the Repository
 git clone https://github.com/YourUsername/MP3-Converter.git
-cd MP3-Converter
 
 ### Install the required packages:
 pip install -r requirements.txt
