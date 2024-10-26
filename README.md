@@ -23,8 +23,13 @@ Make sure you have Python installed on your system. You can download it from [py
 ### Clone the Repository
 ```bash
 git clone https://github.com/YourUsername/MP3-Converter.git
-cd MP3-Converter
+cd MP3-Converter```
 
-Install the required packages:
+###Install the required packages:
+```bash
+pip install -r requirements.txt
+```
+###Run the Django development server:
 ```bash
 python manage.py runserver
+```
